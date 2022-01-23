@@ -11,9 +11,9 @@ Making a drawer based application like gmail with flutter.
         <th style="text-align:center">User accounts</th>
     </tr>
     <tr>
-        <td><img src="./screenshots/drawer.png" alt="" width="200"></td>
-        <td><img src="./screenshots/drawer1.png" alt="" width="200"></td>
-        <td><img src="./screenshots/draweruser.png" alt="" width="200"></td>
+        <td><img src="./drawer.png" alt="" width="200"></td>
+        <td><img src="./drawer1.png" alt="" width="200"></td>
+        <td><img src="./draweruser.png" alt="" width="200"></td>
     <tr>
 </table>
 
