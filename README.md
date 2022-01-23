@@ -2,6 +2,23 @@
 
 Making a drawer based application like gmail with flutter.
 
+## Screenshots
+
+<table border>
+    <tr>
+        <th style="text-align:center">Home</th>
+        <th style="text-align:center">Main Drawer</th>
+        <th style="text-align:center">User accounts</th>
+    </tr>
+    <tr>
+        <td><img src="./screenshots/drawer.png" alt="" width="200"></td>
+        <td><img src="./screenshots/drawer1.png" alt="" width="200"></td>
+        <td><img src="./screenshots/draweruser.png" alt="" width="200"></td>
+    <tr>
+</table>
+
+<table border>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
